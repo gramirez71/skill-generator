@@ -1,2 +1,2 @@
 # mcp-server-generator
-Create a simple Configuration for an  mcp server 
+Create a simple Configuration for an AI skill 
